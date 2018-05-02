@@ -15,15 +15,15 @@ with open(path.join(here, 'requirements.txt')) as f:
     requirements = f.read().splitlines()
 
 setup(
-    name='nbblueroofs',
+    name='nbdemos',
 
     version='0.1.0',
 
-    description='Functions and constants used by the blue roofs GBDX Notebook',
+    description='Functions and constants used by GBDX Notebooks demos.',
     long_description=long_description,
 
-    author='Michael Gleason',
-    author_email='michael.gleason@digitalglobe.com',
+    author='Elizabeth Golden',
+    author_email='elizabeth.golden@digitalglobe.com',
 
     classifiers=[
         'Development Status :: 3 - Alpha',

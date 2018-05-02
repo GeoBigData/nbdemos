@@ -1,4 +1,4 @@
-nbboats
+nbdemos
 =========
 
-Python package containing functions and classes for the blue roofs GBDX Notebook.
+Python package containing functions and classes for GBDX Notebook demos.
